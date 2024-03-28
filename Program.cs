@@ -1,5 +1,8 @@
 
-using CleanArchitectureExample.Domain.Interfaces;
+
+
+using CleanArchitecture.Application.Interfaces;
+using CleanArchitecture.Application.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
